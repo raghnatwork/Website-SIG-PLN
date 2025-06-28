@@ -1,0 +1,2018 @@
+[
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Papandayan",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.73399999979756,
+                -7.316000000217677
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cimandiri",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.40269999979586,
+                -7.16639999979413
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-1 (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.62080000037719,
+                -6.769729999851672
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-3 (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.65162000032107,
+                -6.761969999829334
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-3 (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.65162000032107,
+                -6.761969999829334
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 3",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99918000001958,
+                -6.086179999727477
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 4",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99988999967404,
+                -6.0860700002021275
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jatigede (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10000000042334,
+                -6.859999999897758
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cileunca",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.54663899992798,
+                -7.184916999961656
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cibuni",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.23252799968157,
+                -7.200000000359413
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cikaengan-2",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.9252029998142,
+                -7.583014000290495
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jayamukti",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.8537999998242,
+                -7.532758000401136
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Kertamukti",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.74715999974758,
+                -7.0028329997341086
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Pareang",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.77719399986897,
+                -7.0351000002511705
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cirata",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.30817011985292,
+                -6.735554389680341
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.93093000026535,
+                -2.7198700000825964
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.88399999962695,
+                -7.209799999619384
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cisolok-Cisukarame (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009562835694182,
+                -6.2289181811e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Ciremai (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009746451338235,
+                -6.1857990476e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Galunggung #1",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009708901759227,
+                -6.5172773865e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Galunggung #2",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009708901759227,
+                -6.5172773865e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Papandayan",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009677909882032,
+                -6.57207461859e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Masigit",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009688060844566,
+                -6.41756439045e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Kamojang Low Pressure",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009683659099789,
+                -6.41846270504e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tampomas (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009701445742318,
+                -6.04835680816e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009714920471781,
+                -6.40678460644e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009714920471781,
+                -6.40678460644e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.000970441018274,
+                -5.9854747371e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Sadawarna",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009688060844566,
+                -5.91540614676e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Kuningan",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009765315958947,
+                -6.34300422206e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Sadawarna",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009688060844566,
+                -5.91540614676e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.000970441018274,
+                -5.9854747371e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Sukabumi II",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009564362829913,
+                -6.52805717051e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tasikmalaya I",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009725251097401,
+                -6.91882431828e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 3",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009611704045617,
+                -5.4698417669e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 4",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009611704045617,
+                -5.4698417669e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cirebon",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0009749325946946,
+                -6.03847533874e-5
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar VI",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.53379454759457,
+                -7.371453541323544
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar V",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10289149586326,
+                -6.833170262821966
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Garut",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.80999999979498,
+                -7.476000000285375
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Caringin",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.901807999638,
+                -6.752577999711183
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Patuha (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36000000030675,
+                -6.849999999909462
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar IIA",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.98848909322942,
+                -6.085643811565066
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar IIIA",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.35716388516626,
+                -7.162916441333746
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cisolok-Cisukarame (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.45299999985313,
+                -6.934000000422216
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Ciremai (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.49700000001972,
+                -6.88600000016497
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Salak 7",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6478661598168,
+                -6.739404689925003
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Salak 8",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6478661598168,
+                -6.739404689925003
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar V",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.40124375795679,
+                -6.535832327625346
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.11456869534318,
+                -6.98597668616474
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Patuha (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36000000030675,
+                -6.849999999909462
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tangkuban Perahu (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.58417489386913,
+                -6.787678947975774
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tangkuban Perahu (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5839252655264,
+                -6.787926884577588
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Wayang Windu (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.63000000017936,
+                -7.2079999998380355
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Wayang Windu ",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.63000000017936,
+                -7.2079999998380355
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar VI",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.59147233658057,
+                -6.750067706795009
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Galunggung #1",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.07899999958485,
+                -7.254999999643555
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Galunggung #2",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.07899999958485,
+                -7.254999999643555
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Masigit",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.84700000016011,
+                -7.144000000258494
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Kamojang Low Pressure",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.79799999970082,
+                -7.144999999556632
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tampomas (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.9959999999068,
+                -6.733000000308927
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.1459999997362,
+                -7.132000000366994
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.1459999997362,
+                -7.132000000366994
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.02899999994116,
+                -6.663000000409017
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Sadawarna",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.84700000016011,
+                -6.5849999999107
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Kuningan",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.70700000031988,
+                -7.060999999878888
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Sadawarna",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.84700000016011,
+                -6.5849999999107
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cipanas",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.02899999994116,
+                -6.663000000409017
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Dieng (FTP2) #6",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.59147233658057,
+                -6.750067706795009
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6447828471143,
+                -6.72992695525245
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.89684695472718,
+                -7.024465867151356
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Sukabumi II",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.47000000036078,
+                -7.2670000001636215
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tasikmalaya I",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.26100000026419,
+                -7.702000000404528
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 3",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99699999992912,
+                -6.08900000041419
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar  I",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.83691233358239,
+                -7.236553488805191
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-4",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.58180558467278,
+                -6.773911808974266
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 4",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99699999992912,
+                -6.08900000041419
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cirebon",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.52899999997136,
+                -6.722000000355621
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tangkuban Perahu (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.47929999978248,
+                -6.956000000057336
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-1",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5904799999651,
+                -6.242730000046906
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-1",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5904799999651,
+                -6.242730000046906
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Upper Cisokan Pump Storage (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Upper Cisokan Pump Storage (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Upper Cisokan Pump Storage (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.81005573936005,
+                -6.666671762419092
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Upper Cisokan Pump Storage (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jatigede (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10000000042334,
+                -6.859999999897758
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cibanteng",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.0857060003755,
+                -6.667402999923988
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cibuni Mandiri",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.25130599969845,
+                -7.202638999556058
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Ciherang",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.74838900021955,
+                -6.766916999722295
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cikaengan",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.9262000004222,
+                -7.530147000182575
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cikandang",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.66970000031867,
+                -7.462846999592448
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cikaso-3",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.80194399989472,
+                -7.2433330001188825
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tangkuban Perahu (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.50000000020742,
+                -6.769999999880028
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Salak Small Scale Binary",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.65081873979773,
+                -6.738015309884904
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Patuha (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36000000030675,
+                -6.849999999909462
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jatigede (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10000000042334,
+                -6.859999999897758
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jatigede (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10000000042334,
+                -6.859999999897758
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Kertamukti",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.74715999974758,
+                -7.0028329997341086
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jayamukti",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.8537999998242,
+                -7.532758000401136
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Pareang",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.77719399986897,
+                -7.0351000002511705
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cibuni (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.94079999977264,
+                -7.344099999673209
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar IIIB",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.35716388516626,
+                -7.162916441333746
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar IV",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.97762339770156,
+                -6.281259774001958
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "UCPS (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "UCPS (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "UCPS (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "UCPS (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24330000008734,
+                -6.956699999913468
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Patuha (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36000000030675,
+                -6.849999999909462
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar VII",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.881473159107,
+                -6.225112875264913
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Dieng (FTP2) #6",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.63000000017936,
+                -7.2079999998380355
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Leuwikeris",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.38438475797484,
+                -7.321506758828265
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Gunung Salak 7",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6478661598168,
+                -6.739404689925003
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3888211795732,
+                -6.523042683019519
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3888211795732,
+                -6.523042683019519
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3888211795732,
+                -6.523042683019519
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Muara Tawar Add-on Blok 2",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99844000022786,
+                -6.08654999975212
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Patuha (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36000000030675,
+                -6.849999999909462
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa Barat",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.69807425958598,
+                -7.213410640101445
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cibuni (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.94079999977264,
+                -7.344099999673209
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Wayang Windu 3 (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.63000000017936,
+                -7.2079999998380355
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Cisolok-Cisukarame (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.47929999978248,
+                -6.956000000057336
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.48479999990906,
+                -7.009799999584894
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.92609999990435,
+                -6.215199999844048
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tampomas (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.94999999969565,
+                -6.769999999880028
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Patuha (FTP2)",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36000000030675,
+                -6.849999999909462
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-Bali (Kuota) Tersebar",
+        "nama_tipe": "Pembangkit",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3888211795732,
+                -6.523042683019519
+            ]
+        }
+    }
+]

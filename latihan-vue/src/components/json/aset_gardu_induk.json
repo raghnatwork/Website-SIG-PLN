@@ -1,0 +1,2594 @@
+[
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Jawa-1",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.97566903195259,
+                -6.28083169784425
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Indramayu / Sumur Adem",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.9767037555143,
+                -6.28106157552581
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Balongan",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.38934300469394,
+                -6.379495620799922
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TMNSRI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.23860128024708,
+                -6.404120736381576
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TTJBR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.17647135267809,
+                -6.405535909623931
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NSKTN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18786941775154,
+                -6.249149223018204
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TMNSRI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.23860799964541,
+                -6.4041259997979845
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KNCRT",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.35832300018154,
+                -6.672536000386165
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KRWNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36031336052567,
+                -6.417750551429677
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KRWNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36047072021057,
+                -6.417834820073843
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PNSIA II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.59094531740081,
+                -7.0465981014860315
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTGDE",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10868114864917,
+                -6.858302512881283
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BGOR X",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6508263799692,
+                -6.55300008818685
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BGOR X",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.65057406925705,
+                -6.553728452375885
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KSBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.37772054489372,
+                -6.373748555645049
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CIKPO",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.11725600006534,
+                -6.286499999999484
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KSBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.37772054489372,
+                -6.373748555645049
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KSBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.37772323175474,
+                -6.373743644557423
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Padalarang Baru II / Ngamprah / Cikalong",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.46333166143842,
+                -6.787848545723821
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Tegal Luar",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.74266159798786,
+                -6.96317792221663
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTGDE",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10060093561918,
+                -6.853339460096448
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "Telukjambe II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.33757280734883,
+                -6.4070321034974915
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BBKRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.72373968971948,
+                -6.887351870041217
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BLGAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.378699999668,
+                -6.357360000126044
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CNGRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.50000000026786,
+                -6.666700000067425
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CBREM II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.60067440969436,
+                -6.900657849716142
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CKJNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.35139999965591,
+                -7.008279999901418
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GDMKR II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.05665315008888,
+                -6.286841119639534
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTLHR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.41632000011384,
+                -6.538484000098086
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KDPRU II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.12475999959652,
+                -6.750989999587414
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KDBDK II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.78688030001565,
+                -6.525582599854737
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KCKRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.62586856009236,
+                -6.622122410025241
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KNGRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.47680000014573,
+                -6.973879999854951
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MLBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.08829999990485,
+                -7.052329999778617
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PRATU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6478099998402,
+                -7.293859999816253
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "RDKRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.43400000013877,
+                -6.145149999775867
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SWGAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.76132142995863,
+                -6.381055010081349
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SBGRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.7527999995558,
+                -6.5723100001586054
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NSKTN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18787195010232,
+                -6.2491485300676635
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SMDRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.90890000033885,
+                -6.852680000149352
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SW TGLR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.74163163010729,
+                -6.962134250153911
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TGHRG II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24107884997038,
+                -6.271451990432505
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TLJBE II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3375770599734,
+                -6.407123139720501
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "UBRUG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.73689998964637,
+                -6.953927350020774
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NUBRG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.73668304021702,
+                -6.953795399640786
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CSKAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3189140595842,
+                -6.9222872503094495
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CDKRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.81213700016733,
+                -6.757812000241912
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CKLNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.55004345854793,
+                -7.076812272147336
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTLHR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.38699999984487,
+                -6.52100000025209
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KGSDR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.68572300024941,
+                -6.406765999787774
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PWLTI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24815900003556,
+                -6.396385999876817
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CSLK",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.45800000026665,
+                -6.907000000445224
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TMPMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.95099999977833,
+                -6.775000000258641
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "STLRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.85022999960327,
+                -6.5522550002500655
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TSMYA II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.20655210028902,
+                -7.35093080025668
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DTCTR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18899999963888,
+                -6.378999999977775
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SW RJDLA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.31935786686041,
+                -6.829848805445084
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JISC",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.41100000003316,
+                -6.496999999660556
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TENJO",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.44089990138517,
+                -6.318079949645082
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "RCKEK II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.78814227135354,
+                -6.958881250965257
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "INDKT",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.34549581340748,
+                -6.421966696367736
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JBBKA II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.20667791826727,
+                -6.318047429034615
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "LGDAR II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.50100000029012,
+                -6.864999999657841
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PRURI II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.28914984150892,
+                -6.358094548904917
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DWUAN II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.51013818528139,
+                -6.404541753281667
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BGOR X",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.64960835337713,
+                -6.553470725786197
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "LELES",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.8670000000176,
+                -7.191000000167763
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SKMPY II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.46199999975958,
+                -6.522000000284503
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JAWA-4",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.63067529168663,
+                -6.77819353543669
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SW JAWA-4",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.61889350405306,
+                -6.796403914010144
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GNDUL",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.71565668011314,
+                -6.314207670129254
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BNKOK II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.62310000005782,
+                -6.8605499996054125
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PTMBN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.91072507965383,
+                -6.262487969672847
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTGDE",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.10060093561918,
+                -6.853339460096448
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CATL",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.35705871214898,
+                -6.428877343799228
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": null,
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.34549581340748,
+                -6.421966696367736
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "INDKT",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.34549581340748,
+                -6.421966696367736
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CKLNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.54993402757665,
+                -7.076575918840504
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TBPRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5814819368868,
+                -6.788485564350904
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CBUNI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.37875781607757,
+                -7.1660100978955
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JBAR IV",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.38399718786992,
+                -6.91312821183861
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SKRME",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.575474600748,
+                -7.436033214845854
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CKLNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.55004345854793,
+                -7.076812272147336
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DLTMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.1764713338135,
+                -6.405535910516624
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DYKLT",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.61824967693695,
+                -6.974690073483809
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "HLI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.23536699937287,
+                -6.404043832112673
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GSLAK",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.67264465889495,
+                -6.7405792594149325
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "IDMYU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.90484228504766,
+                -6.432951897574244
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CRBON",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.62283248092834,
+                -6.771408972014767
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTLHR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.39298634415216,
+                -6.535876970215945
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MRTWR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99299999959828,
+                -6.085000000071604
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BNJAR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.54768664491716,
+                -7.381353936777452
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "HRGLS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.9401544004013,
+                -6.436056399588411
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PNYNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.27203600020023,
+                -6.3511559996310964
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PRATU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.54507020002167,
+                -7.022270199624896
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BKASI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.98299209988495,
+                -6.204475900192614
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TLJBE",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.33163300026486,
+                -6.379007999942273
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "UBRNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.73032699970489,
+                -6.93579700028729
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MTWAR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99908899978298,
+                -6.087764000221091
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BNJAR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.53576299982554,
+                -7.385713000387398
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MTWAR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99908899978298,
+                -6.087764000221091
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MTWAR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99908899978298,
+                -6.087764000221091
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GNDUL",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.78664789956346,
+                -6.346717722733987
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTLHR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.41632000011384,
+                -6.538484000098086
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MGKYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.26499600033665,
+                -6.389787999744905
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SRAGI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.54065600010892,
+                -6.736721000142361
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DLTMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.17636199986026,
+                -6.405339999628109
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DLTMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.17636199986026,
+                -6.405339999628109
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DLTMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.17636199986026,
+                -6.405339999628109
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "IDMYU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.97075600013665,
+                -6.274774999956419
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "IDMYU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.97794618573934,
+                -6.2800728991524855
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KDPTN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.19940800005705,
+                -6.810708000144267
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CIKNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.11725600006534,
+                -6.286499999999484
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TMNKR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.22938417017329,
+                -6.389683059657743
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CBATU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.1617640000992,
+                -6.3780110003896
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DLTMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.17636199986026,
+                -6.405339999628109
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KDPTN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.19940800005705,
+                -6.810708000144267
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MGKYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.26499600033665,
+                -6.389787999744905
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "IDRMA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.41012799999697,
+                -6.55482500016448
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TMBUN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.03531287999718,
+                -6.284276129834901
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MRGYU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99798629980542,
+                -6.251380200092236
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TMBUN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.03531287999718,
+                -6.284276129834901
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CKDNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.1329869003259,
+                -6.475823100139435
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BDSLN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.57113889999547,
+                -7.05915560004188
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KMJNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.78380260004748,
+                -7.1381990003222455
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MGKYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.26499600033665,
+                -6.389787999744905
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MGKYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.26499600033665,
+                -6.389787999744905
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MGKYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.26499600033665,
+                -6.389787999744905
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PNYNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.27203600020023,
+                -6.3511559996310964
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MGKYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.26499600033665,
+                -6.389787999744905
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PNYNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.27203600020023,
+                -6.3511559996310964
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "RCKEK",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.78241100007791,
+                -6.950519000300045
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SRAGI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.54065600010892,
+                -6.736721000142361
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BDUTR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5922750000911,
+                -6.857827800225982
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PDLRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.48920100003745,
+                -6.8396979995594895
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CIAWI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.84840489962704,
+                -6.65751239995212
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GSLAK",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.67263269962359,
+                -6.740578999812105
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BGBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.82082710010492,
+                -6.593868000030583
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CNJUR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.1113269997142,
+                -6.800798000349158
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KTLPA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.83838000019527,
+                -6.628360000344223
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "WYNDU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.62581999992346,
+                -7.196591000069925
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PNYNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.27203600020023,
+                -6.3511559996310964
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KTLPA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.83838000019527,
+                -6.628360000344223
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BNRRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.50313849995068,
+                -6.506462199813063
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PTUHA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.42076200031055,
+                -7.182059999956644
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CGRLG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.61389000014954,
+                -6.952187000222686
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "WYNDU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.62581999992346,
+                -7.196591000069925
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CRTRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.34983299997346,
+                -6.6718329998640895
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CAMIS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.36030699961555,
+                -7.33274799962999
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NTSMY",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.23456600044054,
+                -7.401052000028138
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MDRCN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.48581500006036,
+                -6.818245999643238
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CBATU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.1617640000992,
+                -6.3780110003896
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MKSRI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.23918099993084,
+                -6.361411000059787
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MKSRI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.23918099993084,
+                -6.361411000059787
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GDBGE",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.6124170002388,
+                -6.950152000269332
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SKTNI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18754039989726,
+                -6.248803200391183
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SKTNI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.20024300022288,
+                -6.253956000340548
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NTMBN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99941250018477,
+                -6.292843529679295
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BDTMR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.670999999977,
+                -6.905000000327727
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MLIGI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.32531399992638,
+                -6.361535999646084
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CGRLG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.61389000014954,
+                -6.952187000222686
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "LGDAR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.49895900011684,
+                -6.928047000281175
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BDTMR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.670999999977,
+                -6.905000000327727
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BRAGA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.60918099998915,
+                -6.920355999971538
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BGBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.82082710010492,
+                -6.593868000030583
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "ITP",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.89114120003678,
+                -6.484671300327973
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CBRMU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.5638103001772,
+                -6.914652219773835
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CKLNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.54993402757665,
+                -7.076575918840504
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CMGGS II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.79226399963311,
+                -6.473137000061885
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTBRG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.34433100037833,
+                -6.478529000281036
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KMJNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.78380260004748,
+                -7.1381990003222455
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KDBDK",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.80181120014964,
+                -6.559454600264879
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DEPOK",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.79281509989025,
+                -6.412849499564471
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GNDUL",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.78706140037693,
+                -6.343458900085203
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KTMKR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.34341900009873,
+                -6.387425000411862
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MLIGI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.32531399992638,
+                -6.361535999646084
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PRMYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.32229199993697,
+                -6.3747940002299766
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CBBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.55445899976624,
+                -6.898780000081665
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TSMYA",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.20859700004897,
+                -7.352640999973715
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MDRCN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.48581500006036,
+                -6.818245999643238
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BKASI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.98299209988495,
+                -6.204475900192614
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SMRCN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.98333579980422,
+                -6.2229432995569836
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PBRAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.54935600031888,
+                -6.461347000214854
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NTMBN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.99941250018477,
+                -6.292843529679295
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TGHRG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.27072200029816,
+                -6.307758000138447
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CNJUR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.1113269997142,
+                -6.800798000349158
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PDLRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.48920100003745,
+                -6.8396979995594895
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SKTNI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.20024300022288,
+                -6.253956000340548
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BKASI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.98299209988495,
+                -6.204475900192614
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CIBNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.91391990017215,
+                -6.4411188001590105
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "CMGGS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.86483999995822,
+                -6.421128999968073
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DTCTR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18899999963888,
+                -6.378999999977775
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TLJBE II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3375770599734,
+                -6.407123139720501
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TLJBE II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3375770599734,
+                -6.407123139720501
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTLHR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.41632000011384,
+                -6.538484000098086
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "JTLHR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.41632000011384,
+                -6.538484000098086
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TLJBE II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3375770599734,
+                -6.407123139720501
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SBGRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.7527999995558,
+                -6.5723100001586054
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DTCTR",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18899999963888,
+                -6.378999999977775
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PWLTI",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.24815900003556,
+                -6.396385999876817
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PRATU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.6478099998402,
+                -7.293859999816253
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KNGRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.47680000014573,
+                -6.973879999854951
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MLBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.08829999990485,
+                -7.052329999778617
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "MLBRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.08829999990485,
+                -7.052329999778617
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "PDLRG II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.46334365035422,
+                -6.787817419624692
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "TLJBE II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.3375770599734,
+                -6.407123139720501
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KCKRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.62586856009236,
+                -6.622122410025241
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "RDKRU",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.43400000013877,
+                -6.145149999775867
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DWUAN II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.51013818977295,
+                -6.404541749710834
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "SWGAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106.76132142995863,
+                -6.381055010081349
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "GDMKR II",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.05665315008888,
+                -6.286841119639534
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BLGAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.378699999668,
+                -6.357360000126044
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "BLGAN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.378699999668,
+                -6.357360000126044
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "DLTMS",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.17636199986026,
+                -6.405339999628109
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "KRWNG",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.36047072021057,
+                -6.417834820073843
+            ]
+        }
+    },
+    {
+        "provinsi_id": "8014bfb7-6279-46f7-9e0e-4cf16203a2a8",
+        "nama_aset": "NSKTN",
+        "nama_tipe": "Gardu Induk",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107.18787195010232,
+                -6.2491485300676635
+            ]
+        }
+    }
+]
